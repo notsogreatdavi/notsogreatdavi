@@ -1,4 +1,4 @@
-## Eu sou Davi Vieira da Silva, estudante de Sistemas de Informação na UFRPE.
+## Eu sou Davi Vieira da Silva, estudante apaixonado por tecnologia.
 <div align="center">
   <a href="https://github.com/notsogreatdavi">
   <img width ="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=notsogreatdavi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
