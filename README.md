@@ -1,9 +1,5 @@
 ## Eu sou Davi Vieira da Silva, estudante apaixonado por tecnologia.
-<div align="center">
-  <a href="https://github.com/notsogreatdavi">
-  <img width ="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=notsogreatdavi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsogreatdavi&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Davi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
