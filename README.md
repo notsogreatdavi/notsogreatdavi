@@ -1,11 +1,20 @@
-## Eu sou Davi Vieira da Silva, estudante apaixonado por tecnologia.
+<!--   👋🏽Welcome    -->
+<img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="r2d2" />
+## Bem-vindo ao meu perfil 👨🏽‍💻
 
-<div>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notsogreatdavi&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsogreatdavi&layout=compact&langs_count=7&theme=nord"/>
-  
- 
+
+-   🌎 Eu sou de Recife, PE - Brasil
+-   👨🏽‍💻 **Bacharelado em Sistemas de Informação** pela **UFRPE**
+-   💻 Software Developer
+
+<!--   📊stats   -->
+<h2> 📊 Github Stats </h2>
+
+-   🖥️ GitHub Profile Stats
+
+<div align="center">
+ <img height="152em" src="https://github-readme-stats.vercel.app/api?username=notsogreatdavi&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsogreatdavi&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
 <div style="display: inline_block"><br>
