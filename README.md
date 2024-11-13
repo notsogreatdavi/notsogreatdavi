@@ -20,8 +20,55 @@
 ## 🚀 Skills
 
 
-<img align="left" height="60%" width="25%" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical" />
-<table align="right" height="280em" width="50%">
+<img align="left" height="60%" width="40%" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical" />
+<table align="right" height="570em" width="50%">
+  <tr>
+    <td align="center">
+      <a href="">
+      <img src="https://skillicons.dev/icons?i=python" widht="65px" alt="Python Icon"/><br>
+      <sub>
+        <b>
+          <pre>Python</pre>
+        </b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="">
+      <img src="https://skillicons.dev/icons?i=sklearn" widht="65px" alt="Scikit Learn Icon"/><br>
+      <sub>
+        <b>
+          <pre>Scikit Learn</pre>
+        </b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="">
+      <img src="https://skillicons.dev/icons?i=tensorflow" widht="65px" alt="Tensorflow Icon"/><br>
+      <sub>
+        <b>
+          <pre>TensorFlow</pre>
+        </b>
+      </a>
+    </td>
+      <td align="center">
+      <a href="">
+      <img src="https://skillicons.dev/icons?i=opencv" widht="65px" alt="OpenCV Icon"/><br>
+      <sub>
+        <b>
+          <pre>Opencv</pre>
+        </b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="">
+      <img src="https://skillicons.dev/icons?i=mysql" widht="65px" alt="MySQL Icon"/><br>
+      <sub>
+        <b>
+          <pre>MySQL</pre>
+        </b>
+      </a>
+    </td>
+  </tr>
   <tr>
    <td align="center">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
@@ -73,53 +120,6 @@
       </sub>
       </a>
    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="">
-      <img src="https://skillicons.dev/icons?i=python" widht="65px" alt="Python Icon"/><br>
-      <sub>
-        <b>
-          <pre>Python</pre>
-        </b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="">
-      <img src="https://skillicons.dev/icons?i=sklearn" widht="65px" alt="Scikit Learn Icon"/><br>
-      <sub>
-        <b>
-          <pre>Scikit Learn</pre>
-        </b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="">
-      <img src="https://skillicons.dev/icons?i=tensorflow" widht="65px" alt="Tensorflow Icon"/><br>
-      <sub>
-        <b>
-          <pre>TensorFlow</pre>
-        </b>
-      </a>
-    </td>
-      <td align="center">
-      <a href="">
-      <img src="https://skillicons.dev/icons?i=opencv" widht="65px" alt="OpenCV Icon"/><br>
-      <sub>
-        <b>
-          <pre>Opencv</pre>
-        </b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="">
-      <img src="https://skillicons.dev/icons?i=mysql" widht="65px" alt="MySQL Icon"/><br>
-      <sub>
-        <b>
-          <pre>MySQL</pre>
-        </b>
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center">
