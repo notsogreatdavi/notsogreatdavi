@@ -1,6 +1,6 @@
 <!--   👋🏽Welcome    -->
 <img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="r2d2" />
-## Bem-vindo ao meu perfil 👨🏽‍💻
+#Bem-vindo ao meu perfil 👨🏽‍💻
 
 
 -   🌎 Eu sou de Recife, PE - Brasil
@@ -8,7 +8,7 @@
 -   💻 Software Developer
 
 <!--   📊stats   -->
-<h2> 📊 Github Stats </h2>
+## 📊 Github Stats
 
 -   🖥️ GitHub Profile Stats
 
