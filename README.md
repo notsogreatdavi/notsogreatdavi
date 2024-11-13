@@ -1,8 +1,8 @@
 <!--   👋🏽Welcome    -->
 
-## Bem-vindo ao meu perfil 👨🏽‍💻
+## Bem-vindo ao meu perfil 👨‍💻
 -   🌎 Eu sou de Recife, PE - Brasil
--   👨🏽‍💻 **Bacharelado em Sistemas de Informação** pela **UFRPE**
+-   🏫 **Bacharelado em Sistemas de Informação** pela **UFRPE**
 -   💻 Software Developer
 
 <!--   📊stats   -->
