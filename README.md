@@ -127,7 +127,7 @@
       <img src="https://skillicons.dev/icons?i=dart" widht="65px" alt="Dart Icon"/><br>
       <sub>
         <b>
-          <pre>DartL</pre>
+          <pre>Dart</pre>
         </b>
       </a>
     </td>
