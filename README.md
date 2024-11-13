@@ -11,9 +11,9 @@
 -   🖥️ GitHub Profile Stats
 
 <div align="center">
- <img height="200em" width="33%" src="https://github-readme-stats.vercel.app/api?username=notsogreatdavi&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
- <img height="200em" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsogreatdavi&layout=compact&theme=nord&langs_count=7"/>
- <img height="200em" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=notsogreatdavi&theme=nord"/>
+ <img height="152em" width="33%" src="https://github-readme-stats.vercel.app/api?username=notsogreatdavi&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+ <img height="152em" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsogreatdavi&layout=compact&theme=nord&langs_count=7"/>
+ <img height="152em" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=notsogreatdavi&theme=nord"/>
 </div>
 <br>
 
