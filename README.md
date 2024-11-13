@@ -21,18 +21,57 @@
 
 
 <img align="left" height="60%" width="25%" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical" />
-<table align="right" height="190em" width="50%">
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Davi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
- 
-<div> 
-  <a href="https://instagram.com/notsogreatdavi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:davivdsilva03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/notsogreatdavi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<table align="right" height="280em" width="50%">
+  <tr>
+   <td align="center">
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS icon"/><br/>
+        <sub>
+          <b>
+            <pre>CSS</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.javascript.com">
+      <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Js icon"/><br/>
+      <sub>
+        <b>
+          <pre>Javascript</pre>
+        </b>
+      </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
+        <sub>
+          <b>
+            <pre>Typescript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org/en">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Nodejs icon"/><br/>
+        <sub>
+          <b>
+            <pre>Node.js</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://react.dev">
+      <img src="https://skillicons.dev/icons?i=react&theme=light" width="65px" alt="React"/><br/>
+      <sub>
+        <b>
+          <pre>React</pre>
+        </b>
+      </sub>
+      </a>
+   </td>
+  </tr>
+</table>
