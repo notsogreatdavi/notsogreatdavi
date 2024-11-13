@@ -3,8 +3,8 @@
 <div style="display: inline_block>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notsogreatdavi&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsogreatdavi&layout=compact&langs_count=7&theme=nord"/>
- [![trophy](https://github-profile-trophy.vercel.app/?username=notsogreatdavi&column=-1&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsogreatdavi&layout=compact&langs_count=7&theme=nord"/> [![trophy](https://github-profile-trophy.vercel.app/?username=notsogreatdavi&column=-1&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+  
  
 </div>
 
