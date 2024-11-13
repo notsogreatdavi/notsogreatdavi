@@ -122,5 +122,50 @@
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <a href="">
+      <img src="https://skillicons.dev/icons?i=dart" widht="65px" alt="Dart Icon"/><br>
+      <sub>
+        <b>
+          <pre>DartL</pre>
+        </b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="">
+      <img src="https://skillicons.dev/icons?i=flutter" widht="65px" alt="Flutter Icon"/><br>
+      <sub>
+        <b>
+          <pre>Flutter</pre>
+        </b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="">
+      <img src="https://skillicons.dev/icons?i=supabase" widht="65px" alt="Supabase Icon"/><br>
+      <sub>
+        <b>
+          <pre>Supabase</pre>
+        </b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="">
+      <img src="https://skillicons.dev/icons?i=c" widht="65px" alt="C Icon"/><br>
+      <sub>
+        <b>
+          <pre>C</pre>
+        </b>
+      </a>
+    </td>
+        <td align="center">
+      <a href="">
+      <img src="https://skillicons.dev/icons?i=linux" widht="65px" alt="Linux Icon"/><br>
+      <sub>
+        <b>
+          <pre>Linux</pre>
+        </b>
+      </a>
+    </td>
   </tr>
 </table>
