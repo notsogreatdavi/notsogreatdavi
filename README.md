@@ -24,7 +24,7 @@ Backend and full-stack developer with 1+ year of internship experience and activ
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Mandaca-App/mandaca-backend">mandaca-backend</a></h3>
-      <p>REST API for community event management, built for the Mandaca platform.</p>
+      <p>REST API for the Mandaca platform, built with FastAPI and Supabase, with Alembic migrations and auto-generated OpenAPI documentation.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
@@ -32,21 +32,21 @@ Backend and full-stack developer with 1+ year of internship experience and activ
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/notsogreatdavi/habits.sh">habits.sh</a> 🚧</h3>
-      <p>CLI habit tracker built with Node.js and TypeScript, using a local JSON store — no server, no account, runs anywhere.</p>
+      <p>Browser-based habit tracker with a terminal aesthetic, built with Next.js and TypeScript, running entirely on localStorage with no server required.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
       <img src="https://img.shields.io/badge/Status-WIP-orange?style=flat" alt="WIP"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/notsogreatdavi/GeometriesAirQuality">Geometries Air Quality</a></h3>
-      <p>Air quality data analysis using geospatial methods and statistical modeling.</p>
+      <p>Air quality monitoring across UFRPE and UFPE campuses, analyzing CO2, HCHO and VOC readings from 480+ sensor measurements using statistical and cellular automata modeling.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/notsogreatdavi/DIGAI">DIGAI</a> 🚧</h3>
-      <p>Image processing research tool developed during Undergraduate Research at UFRPE.</p>
+      <p>Gesture and body articulation recognition system using OpenCV, developed as Undergraduate Research (IC) at UFRPE.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
       <img src="https://img.shields.io/badge/Status-WIP-orange?style=flat" alt="WIP"/>
