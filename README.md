@@ -36,7 +36,7 @@ Backend and full-stack developer with 1+ year of internship experience and activ
 
 ## Featured Projects
 
-> *"I do not fear death. I fear only that my work will be forgotten."* — The Nailsmith
+> *"I fear only that my work will be forgotten."* — The Nailsmith
 
 <table>
   <tr>
