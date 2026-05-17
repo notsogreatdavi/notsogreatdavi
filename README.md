@@ -18,7 +18,7 @@
 
 ## About
 
-Backend and full-stack developer with 1+ year of internship experience, currently studying Information Systems at UFRPE (7th semester). Building APIs and web applications, with a research background in Computer Vision.
+Backend and full-stack developer with 1+ year of internship experience and active participation in a Junior Enterprise. Currently studying Information Systems at UFRPE (7th semester) and building mandaca-backend, a production-oriented event management API. Research background in Computer Vision through Undergraduate Research at UFRPE.
 
 ---
 
@@ -36,7 +36,7 @@ Backend and full-stack developer with 1+ year of internship experience, currentl
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/notsogreatdavi/habits.sh">habits.sh</a> 🚧</h3>
-      <p>CLI habit tracker with terminal aesthetic, designed for keyboard-first workflows.</p>
+      <p>CLI habit tracker built with Node.js and TypeScript, using a local JSON store — no server, no account, runs anywhere.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
       <img src="https://img.shields.io/badge/Status-WIP-orange?style=flat" alt="WIP"/>
@@ -64,11 +64,11 @@ Backend and full-stack developer with 1+ year of internship experience, currentl
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,spring,mysql,supabase" alt="Backend skills"/>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,spring,mysql,supabase&titles=true" alt="Backend skills"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,js,css" alt="Frontend skills"/>
+<img src="https://skillicons.dev/icons?i=react,js,css&titles=true" alt="Frontend skills"/>
 
 ---
 
@@ -85,4 +85,4 @@ Backend and full-stack developer with 1+ year of internship experience, currentl
 
 Computer Vision research through Undergraduate Research at UFRPE, working on image processing and object detection pipelines.
 
-<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow" alt="Research stack"/>
+<img src="https://skillicons.dev/icons?i=python,opencv&titles=true" alt="Research stack"/>
