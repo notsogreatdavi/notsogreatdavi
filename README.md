@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/sE53E3meDcRrkhyRCR/giphy.gif" width="110" alt="The Knight"/>
+  <img src="./assets/idle.gif" width="110" alt="The Knight"/>
 </div>
 
 <br/>
@@ -98,6 +98,10 @@ Backend and full-stack developer with 1+ year of internship experience and activ
 ---
 
 ## Research
+
+<div align="center">
+  <img src="./assets/infected_bugs.gif" width="300" alt="Infected Bugs — Hollow Knight"/>
+</div>
 
 > *"In the kingdom of silence, the mind speaks loudest."*
 
