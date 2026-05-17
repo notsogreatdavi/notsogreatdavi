@@ -73,8 +73,8 @@ Backend and full-stack developer with 1+ year of internship experience, currentl
 ## GitHub Stats
 
 <div align="center">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=notsogreatdavi&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsogreatdavi&layout=compact&theme=nord&langs_count=7&hide_border=true" alt="Top Languages"/>
+  <img height="152em" src="https://github-readme-stats-sage-one-66.vercel.app/api?username=notsogreatdavi&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="152em" src="https://github-readme-stats-sage-one-66.vercel.app/api/top-langs/?username=notsogreatdavi&layout=compact&theme=nord&langs_count=7&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
