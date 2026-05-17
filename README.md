@@ -99,9 +99,7 @@ Backend and full-stack developer with 1+ year of internship experience and activ
 
 ## Research
 
-<div align="center">
-  <img src="./assets/infected_bugs.gif" width="300" alt="Infected Bugs — Hollow Knight"/>
-</div>
+<img src="./assets/infected_bugs.gif" width="130" align="right" alt="Infected Bugs — Hollow Knight"/>
 
 > *"In the kingdom of silence, the mind speaks loudest."*
 
