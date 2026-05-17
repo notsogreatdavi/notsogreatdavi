@@ -8,10 +8,6 @@
   <a href="mailto:davivdsilva03@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/notsogreatdavi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </div>
 
 ---
