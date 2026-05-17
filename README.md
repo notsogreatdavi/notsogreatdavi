@@ -29,14 +29,16 @@ Backend and full-stack developer with 1+ year of internship experience, currentl
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Mandaca-App/mandaca-backend">mandaca-backend</a></h3>
       <p>REST API for community event management, built for the Mandaca platform.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
+      <img src="https://img.shields.io/badge/Alembic-6BA539?style=flat&logo=alembic&logoColor=white" alt="Alembic"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/notsogreatdavi/habits.sh">habits.sh</a> 🚧</h3>
       <p>CLI habit tracker with terminal aesthetic, designed for keyboard-first workflows.</p>
-      <img src="https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white" alt="Shell"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
       <img src="https://img.shields.io/badge/Status-WIP-orange?style=flat" alt="WIP"/>
     </td>
   </tr>
