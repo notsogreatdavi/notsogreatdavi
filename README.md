@@ -110,7 +110,5 @@ Computer Vision research through Undergraduate Research at UFRPE, working on ima
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a0a2e&height=100&section=footer" alt="Footer"/>
-  <br/>
-  <sub><i>"Hallownest lasts eternal."</i></sub>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a0a2e&height=120&section=footer&text=%22Hallownest%20lasts%20eternal.%22&fontColor=D8DEE9&fontSize=16&fontAlignY=65" alt="Footer"/>
 </div>
