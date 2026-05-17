@@ -18,7 +18,7 @@
 
 ## About
 
-Backend and full-stack developer with 1+ year of internship experience, currently studying Information Systems at UFRPE (7th semester). Building APIs and web applications — with a research background in Computer Vision.
+Backend and full-stack developer with 1+ year of internship experience, currently studying Information Systems at UFRPE (7th semester). Building APIs and web applications, with a research background in Computer Vision.
 
 ---
 
@@ -42,13 +42,13 @@ Backend and full-stack developer with 1+ year of internship experience, currentl
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/notsogreatdavi/Geometries-Air-Quality">Geometries Air Quality</a></h3>
+      <h3><a href="https://github.com/notsogreatdavi/GeometriesAirQuality">Geometries Air Quality</a></h3>
       <p>Air quality data analysis using geospatial methods and statistical modeling.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/notsogreatdavi/DIGAI">DIGAI</a> 🚧</h3>
-      <p>Image processing research tool developed during Scientific Initiation at UFRPE.</p>
+      <p>Image processing research tool developed during Undergraduate Research at UFRPE.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
       <img src="https://img.shields.io/badge/Status-WIP-orange?style=flat" alt="WIP"/>
@@ -68,23 +68,19 @@ Backend and full-stack developer with 1+ year of internship experience, currentl
 
 <img src="https://skillicons.dev/icons?i=react,js,css" alt="Frontend skills"/>
 
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile skills"/>
-
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="152em" width="49%" src="https://github-readme-stats.vercel.app/api?username=notsogreatdavi&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="152em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsogreatdavi&layout=compact&theme=nord&langs_count=7" alt="Top Languages"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=notsogreatdavi&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsogreatdavi&layout=compact&theme=nord&langs_count=7&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
 
 ## Research
 
-Computer Vision research through Scientific Initiation (IC) at UFRPE — working on image processing and object detection pipelines.
+Computer Vision research through Undergraduate Research at UFRPE, working on image processing and object detection pipelines.
 
 <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow" alt="Research stack"/>
