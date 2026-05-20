@@ -107,7 +107,9 @@ Computer Vision research through Undergraduate Research at UFRPE, working on ima
 
 <img src="https://skillicons.dev/icons?i=python,opencv&titles=true" alt="Research stack"/>
 
----
+<div align="center">
+  <img width="100%" src="./assets/separator.svg" alt=""/>
+</div>
 
 <div align="center">
   <sub><em>"Hallownest lasts eternal."</em></sub>
