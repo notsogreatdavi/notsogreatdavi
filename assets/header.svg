@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <defs>
+    <clipPath id="c">
+      <rect width="900" height="200"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .topo-top    { animation: flow-left  12s linear infinite; }
+    .topo-bottom { animation: flow-right 16s linear infinite; }
+    @keyframes flow-left  { from { transform: translateX(0px);    } to { transform: translateX(-900px); } }
+    @keyframes flow-right { from { transform: translateX(0px);    } to { transform: translateX(900px);  } }
+    @media (prefers-reduced-motion: reduce) {
+      .topo-top, .topo-bottom { animation: none; }
+    }
+  </style>
+
+  <rect width="900" height="200" fill="#0F1117"/>
+
+  <g clip-path="url(#c)">
+
+    <!-- Top contour lines — flow left (paths tile seamlessly every 900px) -->
+    <g class="topo-top" fill="none" stroke="#2A2D3E" stroke-width="1.2">
+      <path opacity="0.35" d="M 0,10 Q 225,4  450,10 Q 675,16 900,10 Q 1125,4  1350,10 Q 1575,16 1800,10"/>
+      <path opacity="0.50" d="M 0,22 Q 225,14 450,22 Q 675,30 900,22 Q 1125,14 1350,22 Q 1575,30 1800,22"/>
+      <path opacity="0.65" d="M 0,34 Q 225,25 450,34 Q 675,43 900,34 Q 1125,25 1350,34 Q 1575,43 1800,34"/>
+      <path opacity="0.78" d="M 0,46 Q 225,36 450,46 Q 675,56 900,46 Q 1125,36 1350,46 Q 1575,56 1800,46"/>
+      <path opacity="0.88" d="M 0,58 Q 225,47 450,58 Q 675,69 900,58 Q 1125,47 1350,58 Q 1575,69 1800,58"/>
+    </g>
+
+    <!-- Bottom contour lines — flow right (paths tile seamlessly every 900px) -->
+    <g class="topo-bottom" fill="none" stroke="#2A2D3E" stroke-width="1.2">
+      <path opacity="0.88" d="M -900,152 Q -675,143 -450,152 Q -225,161 0,152 Q 225,143 450,152 Q 675,161 900,152"/>
+      <path opacity="0.78" d="M -900,164 Q -675,155 -450,164 Q -225,173 0,164 Q 225,155 450,164 Q 675,173 900,164"/>
+      <path opacity="0.65" d="M -900,176 Q -675,167 -450,176 Q -225,185 0,176 Q 225,167 450,176 Q 675,185 900,176"/>
+      <path opacity="0.50" d="M -900,188 Q -675,179 -450,188 Q -225,197 0,188 Q 225,179 450,188 Q 675,197 900,188"/>
+      <path opacity="0.35" d="M -900,200 Q -675,191 -450,200 Q -225,209 0,200 Q 225,191 450,200 Q 675,209 900,200"/>
+    </g>
+
+  </g>
+
+  <!-- Name -->
+  <text x="450" y="90"
+    font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="48" font-weight="500" letter-spacing="-0.02em"
+    fill="#C5C8D4" text-anchor="middle">Davi Vieira</text>
+
+  <!-- Handle -->
+  <text x="450" y="116"
+    font-family="'Courier New', Consolas, 'Liberation Mono', monospace"
+    font-size="13" font-weight="400" letter-spacing="0.10em"
+    fill="#4B9EFF" text-anchor="middle">notsogreatdavi</text>
+
+  <!-- Tagline -->
+  <text x="450" y="142"
+    font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="12" font-weight="400"
+    fill="#7A90A8" text-anchor="middle">Backend &amp; Full-Stack Developer · Recife, BR</text>
+</svg>

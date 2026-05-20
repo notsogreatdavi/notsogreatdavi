@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a0a2e&height=200&section=header&text=Davi%20Vieira&fontColor=88C0D0&fontSize=52&fontAlignY=38&desc=Backend%20%26amp%3B%20Full-Stack%20Developer%20%C2%B7%20Recife%2C%20BR&descAlignY=58&descColor=D8DEE9&descSize=16" alt="Header"/>
+  <img width="100%" src="./assets/header.svg" alt="Davi Vieira — notsogreatdavi"/>
 </div>
 
 <div align="center">
@@ -9,18 +9,18 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2500&color=88C0D0&center=true&vCenter=true&width=600&lines=%22Not+monster%2C+nor+shade%2C+nor+Knight.%22;Backend+Developer+%C2%B7+Full-Stack+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2500&color=4B9EFF&center=true&vCenter=true&width=600&lines=%22Not+monster%2C+nor+shade%2C+nor+Knight.%22;Backend+Developer+%C2%B7+Full-Stack+Developer" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/notsogreatdavi/">
-    <img src="https://img.shields.io/badge/LinkedIn-2d1b69?style=flat&logo=linkedin&logoColor=88C0D0" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1C1E2A?style=flat-square&logo=linkedin&logoColor=4B9EFF" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:davivdsilva03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2d1b69?style=flat&logo=gmail&logoColor=88C0D0" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-1C1E2A?style=flat-square&logo=gmail&logoColor=4B9EFF" alt="Email"/>
   </a>
 </div>
 
@@ -43,31 +43,31 @@ Backend and full-stack developer with 1+ year of internship experience and activ
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Mandaca-App/mandaca-backend">mandaca-backend</a></h3>
       <p>REST API for the Mandaca platform, built with FastAPI and Supabase, with Alembic migrations and auto-generated OpenAPI documentation.</p>
-      <img src="https://img.shields.io/badge/Python-2d1b69?style=flat&logo=python&logoColor=88C0D0" alt="Python"/>
-      <img src="https://img.shields.io/badge/FastAPI-2d1b69?style=flat&logo=fastapi&logoColor=88C0D0" alt="FastAPI"/>
-      <img src="https://img.shields.io/badge/Supabase-2d1b69?style=flat&logo=supabase&logoColor=88C0D0" alt="Supabase"/>
-      <img src="https://img.shields.io/badge/Alembic-2d1b69?style=flat&logoColor=88C0D0" alt="Alembic"/>
+      <img src="https://img.shields.io/badge/Python-1C1E2A?style=flat-square&logo=python&logoColor=4B9EFF" alt="Python"/>
+      <img src="https://img.shields.io/badge/FastAPI-1C1E2A?style=flat-square&logo=fastapi&logoColor=4B9EFF" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Supabase-1C1E2A?style=flat-square&logo=supabase&logoColor=4B9EFF" alt="Supabase"/>
+      <img src="https://img.shields.io/badge/Alembic-1C1E2A?style=flat-square&logoColor=4B9EFF" alt="Alembic"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/notsogreatdavi/habits.sh">habits.sh</a> 🚧</h3>
       <p>Browser-based habit tracker with a terminal aesthetic, built with Next.js and TypeScript, running entirely on localStorage with no server required.</p>
-      <img src="https://img.shields.io/badge/TypeScript-2d1b69?style=flat&logo=typescript&logoColor=88C0D0" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Next.js-2d1b69?style=flat&logo=next.js&logoColor=88C0D0" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/WIP-88C0D0?style=flat&labelColor=1a0a2e&color=88C0D0" alt="WIP"/>
+      <img src="https://img.shields.io/badge/TypeScript-1C1E2A?style=flat-square&logo=typescript&logoColor=4B9EFF" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Next.js-1C1E2A?style=flat-square&logo=next.js&logoColor=4B9EFF" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/WIP-4B9EFF?style=flat-square" alt="WIP"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/notsogreatdavi/GeometriesAirQuality">Geometries Air Quality</a></h3>
       <p>Air quality monitoring across UFRPE and UFPE campuses, analyzing CO2, HCHO and VOC readings from 480+ sensor measurements using statistical and cellular automata modeling.</p>
-      <img src="https://img.shields.io/badge/Python-2d1b69?style=flat&logo=python&logoColor=88C0D0" alt="Python"/>
+      <img src="https://img.shields.io/badge/Python-1C1E2A?style=flat-square&logo=python&logoColor=4B9EFF" alt="Python"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/notsogreatdavi/DIGAI">DIGAI</a> 🚧</h3>
       <p>Gesture and body articulation recognition system using OpenCV, developed as Undergraduate Research (IC) at UFRPE.</p>
-      <img src="https://img.shields.io/badge/Python-2d1b69?style=flat&logo=python&logoColor=88C0D0" alt="Python"/>
-      <img src="https://img.shields.io/badge/OpenCV-2d1b69?style=flat&logo=opencv&logoColor=88C0D0" alt="OpenCV"/>
-      <img src="https://img.shields.io/badge/WIP-88C0D0?style=flat&labelColor=1a0a2e&color=88C0D0" alt="WIP"/>
+      <img src="https://img.shields.io/badge/Python-1C1E2A?style=flat-square&logo=python&logoColor=4B9EFF" alt="Python"/>
+      <img src="https://img.shields.io/badge/OpenCV-1C1E2A?style=flat-square&logo=opencv&logoColor=4B9EFF" alt="OpenCV"/>
+      <img src="https://img.shields.io/badge/WIP-4B9EFF?style=flat-square" alt="WIP"/>
     </td>
   </tr>
 </table>
@@ -91,8 +91,8 @@ Backend and full-stack developer with 1+ year of internship experience and activ
 ## GitHub Stats
 
 <div align="center">
-  <img height="152em" src="https://github-readme-stats-sage-one-66.vercel.app/api?username=notsogreatdavi&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="152em" src="https://github-readme-stats-sage-one-66.vercel.app/api/top-langs/?username=notsogreatdavi&layout=compact&theme=nord&langs_count=7&hide_border=true" alt="Top Languages"/>
+  <img height="152em" src="https://github-readme-stats-sage-one-66.vercel.app/api?username=notsogreatdavi&show_icons=true&include_all_commits=true&count_private=true&title_color=4B9EFF&text_color=C5C8D4&bg_color=0F1117&border_color=2A2D3E&icon_color=6E9EFF" alt="GitHub Stats"/>
+  <img height="152em" src="https://github-readme-stats-sage-one-66.vercel.app/api/top-langs/?username=notsogreatdavi&layout=compact&langs_count=7&title_color=4B9EFF&text_color=C5C8D4&bg_color=0F1117&border_color=2A2D3E" alt="Top Languages"/>
 </div>
 
 ---
@@ -110,5 +110,5 @@ Computer Vision research through Undergraduate Research at UFRPE, working on ima
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a0a2e&height=120&section=footer&text=%22Hallownest%20lasts%20eternal.%22&fontColor=D8DEE9&fontSize=16&fontAlignY=65" alt="Footer"/>
+  <sub><em>"Hallownest lasts eternal."</em></sub>
 </div>
