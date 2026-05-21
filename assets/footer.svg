@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <defs>
+    <clipPath id="fc">
+      <rect width="900" height="200"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .ga { animation: fl  9s linear infinite; }
+    .gb { animation: fr 14s linear infinite; }
+    .gc { animation: fl 19s linear infinite; }
+    .gd { animation: fr 12s linear infinite; }
+    .ge { animation: fl 16s linear infinite; }
+    @keyframes fl { to { transform: translateX(-900px); } }
+    @keyframes fr { to { transform: translateX( 900px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .ga, .gb, .gc, .gd, .ge { animation: none; }
+    }
+  </style>
+
+  <rect width="900" height="200" fill="#0F1117"/>
+
+  <g clip-path="url(#fc)">
+
+    <!-- Band A: y 5–37, flow-left 9s, amp ±9 -->
+    <g class="ga" fill="none" stroke="#2A2D3E" stroke-width="1.2">
+      <path opacity="0.30" d="M 0,5  Q 225,-4  450,5  Q 675,14  900,5  Q 1125,-4  1350,5  Q 1575,14  1800,5"/>
+      <path opacity="0.50" d="M 0,13 Q 225,22  450,13 Q 675,4   900,13 Q 1125,22  1350,13 Q 1575,4   1800,13"/>
+      <path opacity="0.70" d="M 0,21 Q 225,12  450,21 Q 675,30  900,21 Q 1125,12  1350,21 Q 1575,30  1800,21"/>
+      <path opacity="0.50" d="M 0,29 Q 225,38  450,29 Q 675,20  900,29 Q 1125,38  1350,29 Q 1575,20  1800,29"/>
+      <path opacity="0.30" d="M 0,37 Q 225,28  450,37 Q 675,46  900,37 Q 1125,28  1350,37 Q 1575,46  1800,37"/>
+    </g>
+
+    <!-- Band B: y 48–80, flow-right 14s, amp ±11 -->
+    <g class="gb" fill="none" stroke="#2A2D3E" stroke-width="1.2">
+      <path opacity="0.30" d="M -900,48 Q -675,59  -450,48 Q -225,37  0,48 Q 225,59  450,48 Q 675,37  900,48"/>
+      <path opacity="0.50" d="M -900,56 Q -675,45  -450,56 Q -225,67  0,56 Q 225,45  450,56 Q 675,67  900,56"/>
+      <path opacity="0.70" d="M -900,64 Q -675,75  -450,64 Q -225,53  0,64 Q 225,75  450,64 Q 675,53  900,64"/>
+      <path opacity="0.50" d="M -900,72 Q -675,61  -450,72 Q -225,83  0,72 Q 225,61  450,72 Q 675,83  900,72"/>
+      <path opacity="0.30" d="M -900,80 Q -675,91  -450,80 Q -225,69  0,80 Q 225,91  450,80 Q 675,69  900,80"/>
+    </g>
+
+    <!-- Band C: y 92–124, flow-left 19s, amp ±8 -->
+    <g class="gc" fill="none" stroke="#2A2D3E" stroke-width="1.2">
+      <path opacity="0.30" d="M 0,92  Q 225,100 450,92  Q 675,84  900,92  Q 1125,100 1350,92  Q 1575,84  1800,92"/>
+      <path opacity="0.50" d="M 0,100 Q 225,92  450,100 Q 675,108 900,100 Q 1125,92  1350,100 Q 1575,108 1800,100"/>
+      <path opacity="0.70" d="M 0,108 Q 225,116 450,108 Q 675,100 900,108 Q 1125,116 1350,108 Q 1575,100 1800,108"/>
+      <path opacity="0.50" d="M 0,116 Q 225,108 450,116 Q 675,124 900,116 Q 1125,108 1350,116 Q 1575,124 1800,116"/>
+      <path opacity="0.30" d="M 0,124 Q 225,132 450,124 Q 675,116 900,124 Q 1125,132 1350,124 Q 1575,116 1800,124"/>
+    </g>
+
+    <!-- Band D: y 136–168, flow-right 12s, amp ±10 -->
+    <g class="gd" fill="none" stroke="#2A2D3E" stroke-width="1.2">
+      <path opacity="0.30" d="M -900,136 Q -675,126 -450,136 Q -225,146 0,136 Q 225,126 450,136 Q 675,146 900,136"/>
+      <path opacity="0.50" d="M -900,144 Q -675,154 -450,144 Q -225,134 0,144 Q 225,154 450,144 Q 675,134 900,144"/>
+      <path opacity="0.70" d="M -900,152 Q -675,142 -450,152 Q -225,162 0,152 Q 225,142 450,152 Q 675,162 900,152"/>
+      <path opacity="0.50" d="M -900,160 Q -675,170 -450,160 Q -225,150 0,160 Q 225,170 450,160 Q 675,150 900,160"/>
+      <path opacity="0.30" d="M -900,168 Q -675,158 -450,168 Q -225,178 0,168 Q 225,158 450,168 Q 675,178 900,168"/>
+    </g>
+
+    <!-- Band E: y 178–198, flow-left 16s, amp ±7 -->
+    <g class="ge" fill="none" stroke="#2A2D3E" stroke-width="1.2">
+      <path opacity="0.30" d="M 0,178 Q 225,171 450,178 Q 675,185 900,178 Q 1125,171 1350,178 Q 1575,185 1800,178"/>
+      <path opacity="0.50" d="M 0,185 Q 225,192 450,185 Q 675,178 900,185 Q 1125,192 1350,185 Q 1575,178 1800,185"/>
+      <path opacity="0.65" d="M 0,192 Q 225,185 450,192 Q 675,199 900,192 Q 1125,185 1350,192 Q 1575,199 1800,192"/>
+      <path opacity="0.45" d="M 0,198 Q 225,205 450,198 Q 675,191 900,198 Q 1125,205 1350,198 Q 1575,191 1800,198"/>
+    </g>
+
+  </g>
+</svg>
