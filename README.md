@@ -106,3 +106,7 @@ Backend and full-stack developer with 1+ year of internship experience and activ
 Computer Vision research through Undergraduate Research at UFRPE, working on image processing and object detection pipelines.
 
 <img src="https://skillicons.dev/icons?i=python,opencv&titles=true" alt="Research stack"/>
+
+<div align="center">
+  <img src="./assets/separator.svg" width="800" alt=""/>
+</div>
